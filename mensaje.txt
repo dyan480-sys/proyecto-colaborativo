@@ -1,1 +1,4 @@
 Ejercicio Colaborativo Dayana y Camilo
+Aporte del integrante B:
+Estoy participando en el ejercicio 1 del trabajo colaborativo con Git y GitHub.
+Mi aporte corresponde a la rama feature/aporte-b.
